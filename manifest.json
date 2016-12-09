@@ -4,7 +4,7 @@
   "manifest_version": 2,
   "name": "Inshorts",
   "version": "1.0",
-  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
+  "homepage_url": "https://github.com/g-laz77/inshorts-add-on",
   "icons": {
     "48": "icon/inshorts.png"
   },
