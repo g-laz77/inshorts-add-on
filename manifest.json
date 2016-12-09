@@ -1,0 +1,26 @@
+{
+
+  "description": "Addon to inshorts app",
+  "manifest_version": 2,
+  "name": "Inshorts",
+  "version": "1.0",
+  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/beastify",
+  "icons": {
+    "48": "icon/inshorts.png"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],  
+
+  "browser_action": {
+    "default_icon": "icon/inshorts.png",
+    "default_title": "Inshorts",
+    "default_popup": "https://www.inshorts.com/en/read"
+  },
+  
+  "web_accessible_resources": [
+   
+  ]
+
+}
